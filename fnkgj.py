@@ -1,1 +1,1 @@
-a = 'dknslkfdghsxgh'
+a = 'щлрьвждэапльри'
